@@ -84,7 +84,7 @@ No accounts required beyond Vercel (free tier). No environment variables needed.
 
 1. Download the ZIP directly (no login needed):
    ```
-   https://github.com/griffinmaklansky/lead-aggregator/archive/refs/heads/main.zip
+   https://github.com/griffmak/lead-aggregator/archive/refs/heads/main.zip
    ```
 2. Unzip it, then run:
    ```bash
